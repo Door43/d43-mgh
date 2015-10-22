@@ -8,6 +8,3 @@
 **Recent Changes**
 {{changes>ns = mgh:obs}}
 
-**Latest Status**
-{{page>en:uwadmin:mgh:obs:status}}
-
